@@ -9,7 +9,7 @@
         ResizeMode="NoResize"     
         WindowStyle="ToolWindow"
         xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
-        Title="LiveCharts" Height="280" Width="650">
+        Title="LiveCharts Model" Height="280" Width="650">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="200"/>
